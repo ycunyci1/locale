@@ -17,10 +17,10 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-        "illuminate/support": "^10.19",
-        "illuminate/http": "^10.19",
+        "illuminate/support": "^10.10",
+        "illuminate/http": "^10.10",
         "eseath/sypexgeo": "^2.3",
-        "illuminate/routing": "^10.19"
+        "illuminate/routing": "^10.10"
     },
     "extra": {
         "laravel": {
